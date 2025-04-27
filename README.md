@@ -27,15 +27,16 @@ The design is templated and highly configurable, enabling easy adjustment of key
 
 # How to cite the paper
 
+**Bibtex:**<br />
 @Article{electronics14091765, <br />
-    AUTHOR = {Abbasmollaei, Mostafa and Ould-Bachir, Tarek and Savaria, Yvon}, <br />
-    TITLE = {HLSCAM: Fine-Tuned HLS-Based Content Addressable Memory Implementation for Packet Processing on FPGA}, <br />
-    JOURNAL = {Electronics}, <br />
-    VOLUME = {14}, <br />
-    YEAR = {2025}, <br />
-    NUMBER = {9}, <br />
-    ARTICLE-NUMBER = {1765}, <br />
-    URL = {https://www.mdpi.com/2079-9292/14/9/1765}, <br />
-    ISSN = {2079-9292}, <br />
-    DOI = {10.3390/electronics14091765} <br />
+&nbsp;&nbsp;&nbsp;&nbsp;AUTHOR = {Abbasmollaei, Mostafa and Ould-Bachir, Tarek and Savaria, Yvon}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;TITLE = {HLSCAM: Fine-Tuned HLS-Based Content Addressable Memory Implementation for Packet Processing on FPGA}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;JOURNAL = {Electronics}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;VOLUME = {14}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;YEAR = {2025}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;NUMBER = {9}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;ARTICLE-NUMBER = {1765}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;URL = {https://www.mdpi.com/2079-9292/14/9/1765}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;ISSN = {2079-9292}, <br />
+&nbsp;&nbsp;&nbsp;&nbsp;DOI = {10.3390/electronics14091765} <br />
 }
