@@ -27,16 +27,15 @@ The design is templated and highly configurable, enabling easy adjustment of key
 
 # How to cite the paper
 
-@Article{electronics14091765,
-AUTHOR = {Abbasmollaei, Mostafa and Ould-Bachir, Tarek and Savaria, Yvon},
-TITLE = {HLSCAM: Fine-Tuned HLS-Based Content Addressable Memory Implementation for Packet Processing on FPGA},
-JOURNAL = {Electronics},
-VOLUME = {14},
-YEAR = {2025},
-NUMBER = {9},
-ARTICLE-NUMBER = {1765},
-URL = {https://www.mdpi.com/2079-9292/14/9/1765},
-ISSN = {2079-9292},
-ABSTRACT = {Content Addressable Memories (CAMs) are pivotal in high-speed packet processing systems, enabling rapid data lookup operations essential for applications such as routing, switching, and network security. While traditional Register-Transfer Level (RTL) methodologies have been extensively used to implement CAM architectures on Field-Programmable Gate Arrays (FPGAs), they often involve complex, time-consuming design processes with limited flexibility. In this paper, we propose a novel templated High-Level Synthesis (HLS)-based approach for the design and implementation of CAM architectures such as Binary CAMs (BCAMs) and Ternary CAMs (TCAMs) optimized for data plane packet processing. Our HLS-based methodology leverages the parallel processing capabilities of FPGAs through employing various design parameters and optimization directives while significantly reducing development time and enhancing design portability. This paper also presents architectural design and optimization strategies to offer a fine-tuned CAM solution for networking-related arbitrary use cases. Experimental results demonstrate that HLSCAM achieves a high throughput, reaching up to 31.18 Gbps, 9.04 Gbps, and 33.04 Gbps in the 256×128, 512×36, and 1024×150 CAM sizes, making it a competitive solution for high-speed packet processing on FPGAs.},
-DOI = {10.3390/electronics14091765}
+@Article{electronics14091765, <br />
+    AUTHOR = {Abbasmollaei, Mostafa and Ould-Bachir, Tarek and Savaria, Yvon}, <br />
+    TITLE = {HLSCAM: Fine-Tuned HLS-Based Content Addressable Memory Implementation for Packet Processing on FPGA}, <br />
+    JOURNAL = {Electronics}, <br />
+    VOLUME = {14}, <br />
+    YEAR = {2025}, <br />
+    NUMBER = {9}, <br />
+    ARTICLE-NUMBER = {1765}, <br />
+    URL = {https://www.mdpi.com/2079-9292/14/9/1765}, <br />
+    ISSN = {2079-9292}, <br />
+    DOI = {10.3390/electronics14091765} <br />
 }
