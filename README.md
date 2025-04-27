@@ -23,7 +23,7 @@ The design is templated and highly configurable, enabling easy adjustment of key
    
 ## Requirements
 - AMD/Xilinx Vitis HLS 2023.2 or newer
-- AMD/Xilinx Vivado for implementation and place-and-route evaluation
+- AMD/Xilinx Vivado 2023.2 or newer for implementation and place-and-route evaluation
 
 # How to cite the paper
 
